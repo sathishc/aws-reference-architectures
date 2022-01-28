@@ -51,6 +51,8 @@ Open Banking on AWS - https://d1.awsstatic.com/architecture-diagrams/Architectur
 
 Algorithmic Trading on AWS - https://d1.awsstatic.com/architecture-diagrams/ArchitectureDiagrams/algorithmic-trading-ra.pdf?did=wp_card&trk=wp_card
 
+Machine Learning Best practices - https://d1.awsstatic.com/whitepapers/machine-learning-in-financial-services-on-aws.pdf?fnsd_dlml4
+
 Health Tech
 ===========
 AWS HealthLake - https://aws.amazon.com/healthlake/
@@ -75,6 +77,37 @@ Stream Processing - https://docs.aws.amazon.com/wellarchitected/latest/analytics
 Operational Analytics - https://docs.aws.amazon.com/wellarchitected/latest/analytics-lens/operational-analytics-reference-architecture.html
 
 Data Visualization - https://docs.aws.amazon.com/wellarchitected/latest/analytics-lens/data-visualization-reference-architecture.html
+
+
+Devops
+======
+
+Building end-to-end DevSecOps - https://aws.amazon.com/blogs/devops/building-end-to-end-aws-devsecops-ci-cd-pipeline-with-open-source-sca-sast-and-dast-tools/
+
+Serverless Use Cases
+====================
+
+Web Application - https://docs.aws.amazon.com/wellarchitected/latest/serverless-applications-lens/web-application.html
+
+Mobile Backend - https://docs.aws.amazon.com/wellarchitected/latest/serverless-applications-lens/mobile-backend.html
+
+Rest APIs - MicroServices - https://docs.aws.amazon.com/wellarchitected/latest/serverless-applications-lens/restful-microservices.html
+
+Stream Processing - https://docs.aws.amazon.com/wellarchitected/latest/serverless-applications-lens/stream-processing.html
+
+AI and ML Architecture
+======================
+
+Machine Learning Lens - https://docs.aws.amazon.com/wellarchitected/latest/machine-learning-lens/machine-learning-lens.html
+
+
+Security Best Practices 
+=======================
+
+Security Guidance - https://docs.aws.amazon.com/whitepapers/latest/introduction-aws-security/security-of-the-aws-infrastructure.html
+
+
+
 
 
 
