@@ -106,6 +106,12 @@ Security Best Practices
 
 Security Guidance - https://docs.aws.amazon.com/whitepapers/latest/introduction-aws-security/security-of-the-aws-infrastructure.html
 
+More
+====
+
+Also refer to the AWS Architecture Center for Usecase specific Architectures - https://aws.amazon.com/architecture/
+
+
 
 
 
